@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+# E-Shop eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
 
@@ -16,7 +16,7 @@
 - Admin Order details page
 - Mark orders as delivered option
 - Checkout process (shipping, payment method, etc)
-- PayPal / credit card integration
+- PayPal / credit card integration(PayPal credentials to be added)
 - Database seeder (products & users)
 
 ## Usage
